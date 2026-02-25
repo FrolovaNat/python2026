@@ -1,0 +1,46 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f5f7fb;
+  margin: 0;
+  padding: 24px;
+  color: #1f2937;
+}
+
+h1 {
+  color: #1d4ed8;
+  margin: 0 0 12px 0;
+}
+
+h2 {
+  margin: 18px 0 8px 0;
+}
+
+p {
+  margin: 8px 0;
+  line-height: 1.4;
+}
+
+ul {
+  margin: 8px 0 12px 20px;
+  padding: 0;
+}
+
+li {
+  margin: 6px 0;
+}
+
+a {
+  color: #0f766e;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #115e59;
+}
+
+img {
+  display: block;
+  margin-top: 12px;
+  border-radius: 10px;
+  border: 1px solid #cbd5e1;
+}
